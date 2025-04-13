@@ -1,0 +1,3 @@
+Read Items From 1 to 9 
+sum = sum + item ; 
+print "The amount is sum"
